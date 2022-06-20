@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
+  title: 'shi3do-blog',
+  author: 'shi3do',
+  headerTitle: 'shi3do-blog',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
