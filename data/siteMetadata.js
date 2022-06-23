@@ -9,7 +9,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/SHI3DO/Blog/',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/social.png',
   email: 'address@yoursite.com',
   github: 'https://github.com/SHI3DO',
   twitter: 'https://twitter.com/Charming_shio',
